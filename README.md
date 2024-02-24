@@ -1,4 +1,4 @@
-# Git_Course
+# Git_course
 for zero git course
 
 
